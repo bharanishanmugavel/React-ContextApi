@@ -26,6 +26,5 @@ Display Total Amount: The calculated total amount is displayed on the page so th
 
 5 - Remove from Cart Button :
 
-When a user clicks the "Remove from Cart" button for a product, The product is removed from the cart.
-The list of products and the total amount are updated.
-=======
+When the user clicks to "Remove from cart" button for a product,The product is removed from the cart.
+
